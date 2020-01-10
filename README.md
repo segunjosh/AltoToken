@@ -167,7 +167,7 @@ To distribute the network value back to all contributors and prevent centralized
 The Altostream blockchain contains unique identifiers for contributors, infrastructure providers, App developers and validators, and listeners, allowing any music content platform adopting the same usage to properly identify and record contributions made by each stakeholder.
 
 ### Altostream COIN:
-AltoToken is the fundamental unit of value on the Altostream blockchain it's symbol is ALTO. The Altostream blockchain is designed to algorithmically reward all contributors with new nodes of AltoToken.
+Altostream COIN aka AltoToken is the fundamental unit of value on the Altostream blockchain it's symbol is ALTO. The Altostream blockchain is designed to algorithmically reward all contributors with new nodes of AltoToken.
 
 The total supply in AltoToken will not exceed 25 Million, It is divisible to 18 decimal places. Its official Unicode character is ȅ (U+0205). At the launch of the main network, the initial supply cannot exceed a total of 25,000,000.
 
