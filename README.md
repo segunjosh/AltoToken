@@ -1,6 +1,6 @@
 # Altostream Technical WhitePaper V1.0. 
 
-# Date: 02 July 2020
+# Date: 02 Jan 2020
 
 # Abstract
 
