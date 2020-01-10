@@ -184,10 +184,10 @@ Users spend a huge amount of time and money to support content creators, yet rec
 ## 3. App Developers:
 App developers can build apps using the infrastructure provided by the Altostream blockchain for content creators and viewers. In order to be an App developer, a user must stake a certain number of Altostream.
 
-# 4. Infrastructure Providers Infrastructure providers provide storage:
+## 4. Infrastructure Providers Infrastructure providers provide storage:
 Content Delivery Network (CDN), and transcoding services for the Altostream Apps. They are rewarded through Infrastructure Rewards and LS Voting Rewards. In order to be an infrastructure provider, a user must stake a certain number of Altostream COINS.
 
-# 5. Validators:
+## 5. Validators:
 Validators produce blocks and validate transactions on the blockchain and receive transaction fees in return. They are also rewarded by Block Rewards/Validation Rewards and LS Voting Rewards. In order to be a validator, a user must stake a certain number of Altostream.
 
 
