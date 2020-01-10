@@ -1,6 +1,6 @@
-# Altostream Technical WhitePaper V2.0. 
+# Altostream Technical WhitePaper V1.0. 
 
-# Date: 02 July 20120
+# Date: 02 July 2020
 
 # Abstract
 
@@ -167,9 +167,9 @@ To distribute the network value back to all contributors and prevent centralized
 The Altostream blockchain contains unique identifiers for contributors, infrastructure providers, App developers and validators, and listeners, allowing any music content platform adopting the same usage to properly identify and record contributions made by each stakeholder.
 
 ### Altostream COIN:
-Altostream Coin is the fundamental unit of value on the Altostream blockchain it's symbol is ALTO. The Altostream blockchain is designed to algorithmically reward all contributors with new nodes of Altostream COIN that is produced per block. 50% of Altostream COIN goes to the newly installed nodes by infrastructure providers; 15% goes to App developers; 15% goes to Validators; 20% goes to musicians; and the remaining 10% goes to listeners. 
+AltoToken is the fundamental unit of value on the Altostream blockchain it's symbol is ALTO. The Altostream blockchain is designed to algorithmically reward all contributors with new nodes of AltoToken that is produced per block. 50% of AltoToken goes to the newly installed nodes by infrastructure providers; 15% goes to App developers; 15% goes to Validators 20% goes to musicians; and the remaining 10% goes to listeners. 
 
-The total supply in Altostream COINs will not exceed 10 Billion, It is divisible to 18 decimal places. Its official Unicode character is ȅ (U+0205). At the launch of the main network, the initial supply cannot exceed a total of 10,000,000,000 coins.
+The total supply in AltoToken will not exceed 25 Million, It is divisible to 18 decimal places. Its official Unicode character is ȅ (U+0205). At the launch of the main network, the initial supply cannot exceed a total of 25,000,000.
 
 This system is designed to ensure that App developers, infrastructure providers, validators, musicians, and listeners are fully compensated for their contributions to achieve a long-term sustainability.
 
